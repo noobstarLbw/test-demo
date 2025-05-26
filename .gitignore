@@ -1,0 +1,23 @@
+#node_modules
+node_modules
+
+#dist
+dist
+*.zip
+*.rar
+
+*.sh
+scp.md
+
+# .log
+*.log
+report.*
+
+.DS_STORE
+*.DS_Store
+*~
+*.sublime-project
+*.sublime-workspace
+.idea
+.vscode
+.DS_Store
